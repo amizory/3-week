@@ -2,7 +2,7 @@
 
 * [Основы CI/CD](#Основы-CI/CD)
 * [Build Automation Tools](#Build-Automation-Tools)
-* [Основы GitLab CI](#Основы-GitLab-CI )
+* [Основы GitLab CI](#Основы-GitLab-CI)
 * [Основы Jenkins](#Основы-Jenkins)
 
 ## <a id="Основы-CI/CD">Основы CI/CD</a>
@@ -546,7 +546,7 @@
     приложение в продакшн-окружение.
 ```
 
-## <a id="Основы-GitLab-CI ">Основы GitLab CI </a>
+## <a id="Основы-GitLab-CI ">Основы GitLab CI</a>
 
 ```txt
 1 - Раннеры, установка и настройка раннера.
